@@ -1,0 +1,6 @@
+import PlaceholderPage from '@/components/PlaceholderPage'
+
+// Member 2 owns this folder. Replace the placeholder with your real page.
+export const procurementRoutes = [
+  { path: '/procurement', element: <PlaceholderPage title="Procurement" owner="Member 2" /> },
+]
